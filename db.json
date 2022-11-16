@@ -1,0 +1,145 @@
+{
+    "productos": [
+        {
+            "nombre": "CADENA PERPETUA",
+            "puntaje": 9.2,
+            "genero": "DRAMA",
+            "imagen": "./img/cadenaPerpetua.jpg",
+            "tipo": "PELICULA"
+        },
+        {
+            "nombre": "EL PADRINO",
+            "puntaje": 9.2,
+            "genero": "CRIMEN",
+            "imagen": "./img/padrino.jpg",
+            "tipo": "PELICULA"
+        },
+        {
+            "nombre": "FORREST GUMP",
+            "puntaje": 8.8,
+            "genero": "ROMANCE",
+            "imagen": "./img/forrestgump.jpg",
+            "tipo": "PELICULA"
+        },
+        {
+            "nombre": "ORIGEN",
+            "puntaje": 8.7,
+            "genero": "ACCION",
+            "imagen": "./img/origen.jpg",
+            "tipo": "PELICULA"
+        },
+        {
+            "nombre": "MATRIX",
+            "puntaje": 8.7,
+            "genero": "CIENCIA FICCION",
+            "imagen": "./img/matrix.jpg",
+            "tipo": "PELICULA"
+        },
+        {
+            "nombre": "SEVEN",
+            "puntaje": 8.6,
+            "genero": "MISTERIO",
+            "imagen": "./img/seven.jpg",
+            "tipo": "PELICULA"
+        },
+        {
+            "nombre": "INTERESTELLAR",
+            "puntaje": 8.6,
+            "genero": "AVENTURA",
+            "imagen": "./img/interstellar.jpg",
+            "tipo": "PELICULA"
+        },
+        {
+            "nombre": "LA MILLA VERDE",
+            "puntaje": 8.6,
+            "genero": "FANTASIA",
+            "imagen": "./img/millaverde.jpg",
+            "tipo": "PELICULA"
+        },
+        {
+            "nombre": "PSICOSIS",
+            "puntaje": 8.5,
+            "genero": "TERROR",
+            "imagen": "./img/psicosis.jpg",
+            "tipo": "PELICULA"
+        },
+        {
+            "nombre": "PARÁSITOS",
+            "puntaje": 9.2,
+            "genero": "DRAMA",
+            "imagen": "./img/parasito.jpg",
+            "tipo": "PELICULA"
+        },
+        
+        {
+            "nombre": "BREAKING BAD",
+            "puntaje": 9.4,
+            "genero": "DRAMA",
+            "imagen": "./img/breakingbad.jpg",
+            "tipo": "SERIE"
+        },
+        {
+            "nombre": "CHERNOBYL",
+            "puntaje": 9.3,
+            "genero": "DRAMA",
+            "imagen": "./img/chernobyl.png",
+            "tipo": "SERIE"
+        },
+        {
+            "nombre": "RICK Y MORTY",
+            "puntaje": 9.1,
+            "genero": "COMEDIA",
+            "imagen": "./img/rickymorty.jpg",
+            "tipo": "SERIE"
+        },
+        {
+            "nombre": "EL ÚLTIMO BAILE",
+            "puntaje": 9.1,
+            "genero": "DOCUMENTAL",
+            "imagen": "./img/elultimobaile.jpg",
+            "tipo": "SERIE"
+        },
+        {
+            "nombre": "LIFE",
+            "puntaje": 9.0,
+            "genero": "DOCUMENTAL",
+            "imagen": "./img/life.jpg",
+            "tipo": "SERIE"
+        },
+        {
+            "nombre": "SHERLOCK",
+            "puntaje": 9.0,
+            "genero": "CRIMEN",
+            "imagen": "./img/sherlock.jpg",
+            "tipo": "SERIE"
+        },
+        {
+            "nombre": "THE OFFICE",
+            "puntaje": 8.9,
+            "genero": "COMEDIA",
+            "imagen": "./img/theoffice.jpg",
+            "tipo": "SERIE"
+        },
+        {
+            "nombre": "ARCANE",
+            "puntaje": 8.9,
+            "genero": "ACCION",
+            "imagen": "./img/arcane.jpg",
+            "tipo": "SERIE"
+        },
+        {
+            "nombre": "FARGO",
+            "puntaje": 8.9,
+            "genero": "CRIMEN",
+            "imagen": "./img/fargo.png",
+            "tipo": "SERIE"
+        },
+        {
+            "nombre": "FRIENDS",
+            "puntaje": 8.8,
+            "genero": "COMEDIA",
+            "imagen": "./img/life.jpg",
+            "tipo": "SERIE"
+        }
+    ]
+}
